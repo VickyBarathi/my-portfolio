@@ -15,7 +15,7 @@ const Banner = () => {
           <p className="text-lg text-gray-700 mb-2">
           Frontend Developer | 5 years of experiences 🚀
           </p>
-          <p>I build pixel-perfect, engaging, and accessible digital experiences. </p>
+          <p>I build pixel-perfect, engaging, and accessible digital experiences.  </p>
                         <div className='grid grid-cols-3 gap-4 items-center mt-5'>
                           <div className='flex items-center'>
                               <div>
