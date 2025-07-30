@@ -3,8 +3,8 @@ import React from 'react';
 const About = () => {
  
   return (
-    <section className="w-full py-16 bg-gray-100">
-    <div className="max-w-7xl mx-auto px-4">
+    <section className="w-full py-16 bg-gray-100 pt-28" id='projects'>
+    <div className="max-w-7xl mx-auto px-4 ">
        <h2 className='text-center text-2xl font-semibold mb-3'data-aos="fade-down">Projects</h2>
       <p className='text-center mb-6' data-aos="fade-up">"I’m a frontend developer with [X] years of experience turning design concepts into interactive, pixel-perfect web experiences. I have a passion for UI/UX design, performance optimization, and writing clean, reusable code."</p>
               <div className='grid grid-cols-12 mt-3 text-center justify-center flex gap-5'>
